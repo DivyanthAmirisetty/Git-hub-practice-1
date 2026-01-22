@@ -19,3 +19,8 @@ This repository is created to practice basic GitHub operations such as:
 
 ## Status
 In progress — learning GitHub fundamentals step by step.
+
+## Sample Output (Practice)
+below is a sample image uploaded to demonstrate how analysis outputs are displayed on GitHub.
+
+![Sample Output](outputs/azure ss.png)
